@@ -3,10 +3,6 @@ title: "STA 141A Fundamentals of Statistical Data Science - Homework 1"
 params:
   term: Winter 2023
   duedate: '2023-02-10'
-  name: Riya Desai
-  email: rykdesai@ucdavis.edu
-  total_points: XX
-  grade: NA
 output:
   html_document:
     df_print: paged

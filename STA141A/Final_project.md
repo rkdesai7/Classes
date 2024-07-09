@@ -2,11 +2,6 @@
 title: "STA 141 - Fundamentals of Statistical Data Science - Final project"
 params:
   term: Winter 2023
-  duedate: '2023-03-24'
-  name: Riya Desai
-  email: rykdesai@ucdavi.edu
-  total_points: XX
-  grade: NA
 output: 
    html_document: default
    pdf_document: default
